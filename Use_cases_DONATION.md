@@ -1,4 +1,4 @@
-Гse cases  
+Use cases  
 ### Тестирование модуля внесения пожертвований https://vaccina.info/donate  
 на веб-сайте АНО "Коллективный иммунитет" https://vaccina.info/
 
